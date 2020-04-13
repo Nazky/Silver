@@ -25,6 +25,7 @@ v4.1 :
 
 - [ ] Passcode Bypass Auto
 - [ ] Import/Inject iCloud Account
+- [ ] Make Passcode Bypass Untetherd
 
 ### Credit
 
