@@ -26,6 +26,12 @@ v 4.1 :
 - [ ] Passcode Bypass Auto
 - [ ] Import/Inject iCloud Account
 
+### Credit
+
+- Created originaly by @appletech752
+
+- Windows version by @NazkyYT
+
 
 
 
