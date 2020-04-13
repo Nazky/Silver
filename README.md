@@ -14,7 +14,7 @@ If Putty not work use openssh | [Installation](https://docs.microsoft.com/fr-fr/
 
 ### Change Log 
 
-v 4.1 : 
+v4.1 : 
 
 - [x] Passcode Bypass (BETA)
 - [x] Bypass IOS 13.x
